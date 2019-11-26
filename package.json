@@ -1,0 +1,22 @@
+{
+  "name": "layout-componentes",
+  "version": "1.0.0",
+  "description": "Conjunto de componentes feitos com Vue, Vuetify e Vuex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosNeto2804/layout-componentes.git"
+  },
+  "author": "CarlosNeto2804",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosNeto2804/layout-componentes/issues"
+  },
+  "homepage": "https://github.com/CarlosNeto2804/layout-componentes#readme",
+  "dependencies": {
+    "epic-spinners": "^1.1.0"
+  }
+}
